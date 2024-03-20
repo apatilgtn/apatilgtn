@@ -7,7 +7,10 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on 
 
-IAC - 
+IAC - Pulumi, Terraform , CrossPlane
+Cloud - Azure, GCP , AWS
+Containers - Azure Kubernetes Service, Google Kubernetes Engine, AWS Elastic Kubernetes Engine
+Gitops - Argocd, Fluxcd
 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -18,7 +21,3 @@ IAC -
 - ⚡ Fun fact: ...
 -->
 
-
-<div id="header" align="left">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
