@@ -6,10 +6,11 @@ I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for 
 
 ## 🚀 About Me
 
-- 🔭 I'm currently pursuing my Master's in Computer Science at IIT Kharagpur.
-- 📝 I write in-depth, long-form articles on my website [theenthusiast.dev](https://theenthusiast.dev), accumulating over 20k views within just 2 months.
-- 🌐 Proud member of the [Hackernoon Blogging Fellowship](https://hackernoon.com/), contributing to the tech community.
-- ✍️ Content Writer at [freeCodeCamp](https://www.freecodecamp.org/), gearing up to share valuable insights with the global coding community.
+As an experienced Cloud Platform Engineer, I bring a wealth of expertise in multi-cloud platforms. My background encompasses working with industry-leading cloud providers such as Azure, AWS, and Google Cloud Platform (GCP). I hold certifications in Azure and AWS, complemented by specialized training in managed file transfer solutions.
+
+My core competencies lie in designing, developing, and maintaining robust Cloud platform systems. I possess extensive knowledge of Cloud Computing principles and API Management techniques, enabling me to effectively troubleshoot network issues and seamlessly deploy software across multi-cloud platform systems using CI/CD pipelines. Additionally, I ensure post-deployment readiness through comprehensive checks.
+
+In my current role, I excel in understanding multi-cloud solutions and applications with integration across multiple systems. I have a deep understanding of application architecture, deployment, and configuration across various environments. A critical aspect of my role involves evaluating an application's performance against business requirements, ensuring optimal functionality and alignment with organizational goals.
 
 ## My Articles
 - https://apatilgtn.medium.com/
