@@ -1,8 +1,19 @@
-# Hi, I'm Anand Patil! 👋
+#Hey folks!! 👋
 
-I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
-![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+🚀 I'm Anand Patil, a cloud-native enthusiast who loves designing and implementing modern, scalable applications. 
+
+🛠️ My toolbox includes [Kubernetes/Docker/Containerization Tools]. I'm also well-versed in [CI/CD Pipelines/Observability Tools].
+
+🌐 I actively contribute to the Continious Deliery Fundation, People Cert / Devops Institute  and DAAS community by writling Blogs - [https://cd.foundation/blog/2024/05/31/optimizing-kubernetes-cicd/].
+
+🌱 I'm always learning and exploring new cloud-native technologies. 
+
+🌱 I believe in giving back to the open-source community that has helped me grow. I'm actively seeking ways to contribute my skills and knowledge to projects that make a difference.
+
+
+Let's connect and build amazing cloud-native solutions together!
 
 ## 🚀 About Me
 
@@ -17,21 +28,18 @@ In my current role, I excel in understanding multi-cloud solutions and applicati
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+AWS, Azure Cloud, GCP, Kubernetes, Docker, Gitops, CICD, IAC, Terraform.
 
 ## 🌱 Currently Exploring
 
-- 🚀 Learning Full Stack Web Development
-  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
-  - Navigating through the world of React Router for seamless page transitions.
-  - Styling with Tailwind CSS to create modern and responsive user interfaces.
-  - Building server-side applications with Django, a powerful Python web framework.
-  - Diving into PostgreSQL for efficient and scalable database management.
+- 🚀 Currently, I'm diving deep into [Google Apigeex Platform and Migartion].
+
 
  ## 🏆 Achievements
 
 - 🌟 CD Foundation Ambassador 2024
-- 🌟 DevOps Institute / PeopleCert Ambassador 2024   
+- 🌟 DevOps Institute / PeopleCert Ambassador 2024
+- 🌟 DAAS Ambassador 2024
 
 
 ## 📬 Get in Touch
@@ -45,14 +53,3 @@ Thanks for stopping by! Let's connect and explore the fascinating world of techn
 
 <!--
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
