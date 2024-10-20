@@ -6,7 +6,7 @@
 
 🛠️ My toolbox includes [Kubernetes/Docker/Containerization Tools]. I'm also well-versed in [CI/CD Pipelines/Observability Tools].
 
-🌐 I actively contribute to the Continious Deliery Fundation, People Cert / Devops Institute  and DAAS community by writling Blogs - [https://cd.foundation/blog/2024/05/31/optimizing-kubernetes-cicd/].
+🌐 I actively contribute to the Continious Deliery Foundation, People Cert / Devops Institute  and DAAS community by writling Blogs - [https://cd.foundation/blog/2024/05/31/optimizing-kubernetes-cicd/].
 
 🌱 I'm always learning and exploring new cloud-native technologies. 
 
