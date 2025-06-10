@@ -32,7 +32,7 @@ AWS, Azure Cloud, GCP, Kubernetes, Docker, Gitops, CICD, IAC, Terraform.
 
 ## 🌱 Currently Exploring
 
-- 🚀 Currently, I'm diving deep into [Google Apigeex Platform and Migartion].
+- 🚀 Currently, I'm diving deep into [Google Apigeex Platform and Migartion], AI tools and building a tool to process documents and build MVP using AI.
 
 
  ## 🏆 Achievements
