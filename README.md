@@ -79,7 +79,7 @@
 </td>
 <td width="50%">
 
-#### 🤖 **Bhoomi Weave AI - Document Intelligence**
+#### 🤖 **OneBhoomi Weave AI**
 ![Status](https://img.shields.io/badge/Status-MVP%20Ready-brightgreen?style=flat-square)
 ![AI](https://img.shields.io/badge/AI/ML-Powered-blue?style=flat-square)
 ![Demo](https://img.shields.io/badge/Demo-Live-success?style=flat-square)
@@ -88,7 +88,7 @@
 - **Innovation:** GenAI-powered document analysis & classification  
 - **Capabilities:** Auto-extraction, smart categorization, risk analysis
 - **Impact:** 95%+ accuracy in document processing automation
-- **🔗 Live Demo:** [Bhoomi Weave AI Docs](https://preview--bhoomi-weave-ai-docs.lovable.app/)
+- **🔗 Live Demo:** **INPROGRESS**
 
 </td>
 </tr>
