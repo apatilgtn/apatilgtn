@@ -181,8 +181,9 @@
 
 ### 🤝 Community Contributions
 - **Active contributor** to Continuous Delivery Foundation
-- **Community engagement** with DevOps Institute
+- **Community engagement** with DevOps Institute and DAAS
 - **Technical blog writing** sharing real-world experiences
+- **Open-source contributions** to cloud-native projects
 
 ---
 
@@ -205,9 +206,9 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://twitter.com/introvertedbot)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/apdevops83/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://apatilgtn.medium.com/)
-[![CD Foundation](https://img.shields.io/badge/CD%20Foundation-Contributor-orange?style=for-the-badge)](https://cd.foundation/)
+[![CD Foundation](https://img.shields.io/badge/CD%20Foundation-Ambassador-orange?style=for-the-badge)](https://cd.foundation/ambassadors/)
 
 </div>
 
