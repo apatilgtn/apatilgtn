@@ -1,4 +1,4 @@
-# 👋 Hey there! I am Anand Patil
+# 👋 Hey there! I'm Anand Patil
 
 <div align="center">
 
@@ -52,24 +52,124 @@
 
 ---
 
-## 🌱 Current Focus & Learning
+## 🌱 Current Focus & Innovation Projects
 
-```yaml
-current_projects:
-  - name: "Google Apigee Platform Migration"
-    status: "In Progress"
-    technologies: ["GCP", "Apigee", "API Management"]
-  
-  - name: "AI-Powered Document Processing Tool"
-    status: "MVP Development"
-    technologies: ["AI/ML", "Document Processing", "Automation"]
+<div align="center">
 
-learning_areas:
-  - Advanced Kubernetes patterns
-  - AI/ML integration in DevOps
-  - Service mesh architectures
-  - Cloud cost optimization
-```
+### 🚧 **Active Projects & Initiatives**
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+#### 🏗️ **Google Apigee Platform Migration**
+![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat-square)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Apigee](https://img.shields.io/badge/Apigee-FF6900?style=flat-square)
+
+**🎯 Objective:** Modernizing API management infrastructure
+- **Migration Strategy:** Legacy to cloud-native API gateway
+- **Scale:** Enterprise-level multi-environment setup
+- **Key Focus:** Zero-downtime migration, performance optimization
+- **Technologies:** GCP, Apigee Edge → X, Terraform, CI/CD
+
+</td>
+<td width="50%">
+
+#### 🤖 **Bhoomi Weave AI - Document Intelligence**
+![Status](https://img.shields.io/badge/Status-MVP%20Ready-brightgreen?style=flat-square)
+![AI](https://img.shields.io/badge/AI/ML-Powered-blue?style=flat-square)
+![Demo](https://img.shields.io/badge/Demo-Live-success?style=flat-square)
+
+**🎯 Objective:** Intelligent document processing & insights
+- **Innovation:** GenAI-powered document analysis & classification  
+- **Capabilities:** Auto-extraction, smart categorization, risk analysis
+- **Impact:** 95%+ accuracy in document processing automation
+- **🔗 Live Demo:** [Bhoomi Weave AI Docs](https://preview--bhoomi-weave-ai-docs.lovable.app/)
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🎓 **Learning Pathways & Expertise Development**
+
+<details>
+<summary><strong>🚀 Advanced Kubernetes & Service Mesh</strong></summary>
+
+- **Service Mesh Implementation**: Deep dive into Istio & Linkerd architectures
+- **Advanced Networking**: Multi-cluster management, traffic splitting, canary deployments
+- **Observability Stack**: Prometheus, Grafana, Jaeger integration for distributed tracing
+- **Security Patterns**: mTLS, RBAC, network policies, and zero-trust implementations
+
+</details>
+
+<details>
+<summary><strong>🤖 AI/ML Engineering in Cloud Operations</strong></summary>
+
+- **LLMs in DevOps**: Automating code reviews, incident analysis, and documentation
+- **Predictive Operations**: ML models for resource forecasting and anomaly detection
+- **Intelligent Automation**: Self-healing systems and automated remediation
+- **AI-Powered Monitoring**: Anomaly detection and intelligent alerting systems
+
+</details>
+
+<details>
+<summary><strong>☁️ Enterprise Cloud Architecture</strong></summary>
+
+- **Security & Compliance**: Multi-cloud security frameworks, data governance
+- **Microservices Architecture**: Event-driven systems, distributed patterns
+- **API Gateway Solutions**: Rate limiting, authentication, API versioning strategies
+- **Data Pipeline Engineering**: Real-time streaming, ETL optimization, data lakes
+
+</details>
+
+<details>
+<summary><strong>🔧 Platform Engineering & Developer Experience</strong></summary>
+
+- **Internal Developer Platforms**: Self-service infrastructure provisioning
+- **GitOps Evolution**: Advanced ArgoCD patterns, multi-tenancy, progressive delivery
+- **Developer Productivity**: Metrics-driven engineering, DORA measurements
+- **Cloud Cost Optimization**: Resource rightsizing, spot instance strategies
+
+</details>
+
+### 🔬 **Active Research & Innovation Areas**
+
+<table>
+<tr>
+<td width="33%">
+
+**🧠 AI-Driven Operations**
+- Automated incident triage
+- Predictive capacity planning  
+- Code quality automation
+- Intelligent workflow optimization
+
+</td>
+<td width="33%">
+
+**🏗️ Enterprise Cloud Solutions**
+- Multi-cloud orchestration
+- Advanced API management
+- Event-driven architectures
+- Distributed systems patterns
+
+</td>
+<td width="34%">
+
+**⚡ Next-Gen Platforms**
+- Serverless-first architectures
+- Edge computing patterns
+- Container orchestration
+- Developer self-service portals
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -81,9 +181,8 @@ learning_areas:
 
 ### 🤝 Community Contributions
 - **Active contributor** to Continuous Delivery Foundation
-- **Community engagement** with DevOps Institute and DAAS
+- **Community engagement** with DevOps Institute
 - **Technical blog writing** sharing real-world experiences
-- **Open-source contributions** to cloud-native projects
 
 ---
 
@@ -93,10 +192,10 @@ learning_areas:
 
 | 🎯 **Specialization** | 🔧 **Core Skills** | 🏆 **Certifications** |
 |:---:|:---:|:---:|
-| Multi-Cloud Architecture | Kubernetes Orchestration | Azure Certified |
-| CI/CD Pipeline Design | Infrastructure as Code | AWS Certified |
-| API Management | Observability & Monitoring | Specialized Training |
-| GitOps Implementation | Service Mesh | DevOps Expertise |
+| Multi-Cloud Architecture | Kubernetes Orchestration | AWS Cloud Practitioner |
+| CI/CD Pipeline Design | Service Mesh (Istio/Linkerd) | Azure Fundamentals |
+| API Management | Infrastructure as Code | GitOps Fundamentals |
+| GitOps Implementation | Observability & Monitoring | API Security Architect |
 
 </div>
 
